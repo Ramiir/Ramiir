@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ramiir
+- 👋 Hi, I’m Ramiir Khezaali
 - 👀 I’m interested in ... the function of reality
 - 🌱 I’m currently learning ... fundamental coding skills(Python, Ruby, JS, Java, C, C++, C#, Swift, HTML/CSS, XML, JSON, Functional Programming, Object-Oriented, Aspect-Oriented) 
 - 💞️ I’m looking to collaborate on ... creating universally formatted archives of a great many things
